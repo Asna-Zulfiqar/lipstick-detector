@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['lipstick', 'objects']
+
+roboflow:
+  workspace: computer-vision-projects-h6dy2
+  project: lipstick-detector-75bnw
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/computer-vision-projects-h6dy2/lipstick-detector-75bnw/dataset/1
