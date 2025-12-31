@@ -1,4 +1,4 @@
-# Lipstick Detector 💄
+# Lipstick Detector
 
 A computer vision project that uses YOLO (You Only Look Once) deep learning model to detect lipstick objects in images with high accuracy. Perfect for beauty applications, inventory management, or product recognition systems.
 

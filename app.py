@@ -10,7 +10,7 @@ import os
 st.set_page_config(page_title="Lipstick Detector", page_icon="💄", layout="centered")
 
 # Title
-st.title("💄 Lipstick Detector")
+st.title("Lipstick Detector")
 st.write("Upload an image to detect lipstick objects")
 
 # Load model
