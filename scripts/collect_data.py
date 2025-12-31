@@ -7,7 +7,7 @@ from pathlib import Path
 DATA_DIR = Path("data/raw/")
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 IMAGES_TO_DOWNLOAD = 200
-API_KEY = "gwwCcA4RAAWSE0mvRLcmUGbxReov8QZXSGxRnmMXz1iW7Im7pfypUORw"
+API_KEY = ""
 
 
 def download_lipstick_images():
